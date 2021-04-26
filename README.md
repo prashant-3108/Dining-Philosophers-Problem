@@ -1,5 +1,7 @@
 # Dining Philosophers Problem
 
+![alt text](dp.jpg)
+
 ### Problem Statement
 
 The dining philosophers problem states that there are 5 philosophers sharing a circular table and they eat and think alternatively. A hungry philosopher may only eat if there are both chopsticks available. Otherwise a philosopher puts down their chopstick and begin thinking again.
